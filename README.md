@@ -16,7 +16,16 @@ Include the files used
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 ### Just Some Edits
-I just needed to add this
+I just needed to add this to ascertain the workability of my git knowledge
+
+# Check this out
+Find out if this is part of the assignment
+
+# Commits
+They are very important
+
+# Time for Documentation
+Here is for the documentations
 
 ### First additional change
 Change has to be made this time
