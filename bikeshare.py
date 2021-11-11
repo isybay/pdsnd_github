@@ -6,7 +6,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 print("Are you ready?")
-
+# Now let's get to work
 
 def get_filters():
     """
