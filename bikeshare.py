@@ -49,6 +49,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
+# Now let's have more fun learning
 
 def load_data(city, month, day):
     """
