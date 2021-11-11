@@ -18,6 +18,12 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ### Just Some Edits
 I just needed to add this to ascertain the workability of my git knowledge
 
+# Check this out
+Find out if this is part of the assignment
+
+
+# Time for Documentation
+Here is for the documentations
 
 ### First additional change
 Change has to be made this time
